@@ -1,0 +1,3 @@
+1-To make get call we need to create an index for the bucket.
+   CREATE PRIMARY INDEX `#primary` ON `job`
+
