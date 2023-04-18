@@ -1,8 +1,8 @@
 app:
   couchbase:
     connection-string: couchbase://127.0.0.1
-    user-name: Administrator
-    password: password
+    user-name: add your username
+    password: add your password
     bucket-job: job
 
 
